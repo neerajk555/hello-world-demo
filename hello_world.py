@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-A simple Hello World script
+A simple Hello Universe script
 """
 
 def main():
-    print("Hello World!")
+    print("Hello Universe!")
 
 if __name__ == "__main__":
     main()
